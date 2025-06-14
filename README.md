@@ -18,10 +18,9 @@ The Detection Lab project was designed to create a robust, isolated environment 
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 
 ## Images
+![Screenshot 2025-01-28 114736](https://github.com/user-attachments/assets/6608446c-49b8-4c58-bd8c-376e129da98f)
 
-![Screenshot 2024-12-29 121519](https://github.com/user-attachments/assets/6e082588-e0f6-4965-b7df-e687608723d7)
 *Ref 1: Wireshark capture*
-
-![Screenshot 2025-05-23 142653](https://github.com/user-attachments/assets/9f166669-dd74-4140-a4ec-d8249501b1e4)
+![Screenshot 2025-04-01 103116](https://github.com/user-attachments/assets/e11f0043-44a9-4a73-9674-b73e0eec3af7)
 
 *Ref 2:wazuh-dashboard*
